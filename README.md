@@ -1,9 +1,6 @@
 # Kidney-Stone-Detection-using-Deep-Learning
 Final Year Project 
 
-# Kidney-Stone-Detection-using-Deep-Learning
-Final Year Project 
-
 This Project was my Final Year Group Project.
 
 Commands for Running the Project.
