@@ -13,7 +13,7 @@ py -m venv env
 
 pip install -r requirements.txt
 
-2. Runnning the Project
+2.Runnning the Project
 
 cd ENV/ (your projects virtual enviroment)
 
